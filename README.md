@@ -6,5 +6,7 @@ Pali Buddhist scriptures of 15 countries and its parallel corpus
 tar -xzvf Data.tar.gz
 
 ## original documents of the Pali scriptures
-cd Spider 
-tar -xzvf all.html.tar.gz
+tar -xzvf Spider/all.html.tar.gz
+
+## sample from parallel corpus
+python sample.py
