@@ -24,6 +24,7 @@ Cyrillic   | 斯拉夫语     | 斯拉夫语族的语言
 Tibetan    | 藏语         | 汉藏语系藏缅语族藏语支   
 
 -------------------------------
+##原始语料与处理后的语料
 **sentence level alignment of the Pali scriptures**
 ```
 tar -xzvf Data.tar.gz
