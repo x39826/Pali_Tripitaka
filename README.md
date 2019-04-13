@@ -24,7 +24,7 @@ Cyrillic   | 斯拉夫语     | 斯拉夫语族的语言
 Tibetan    | 藏语         | 汉藏语系藏缅语族藏语支   
 
 -------------------------------
-**sentence level parallel corpus**
+**sentence level alignment of the Pali scriptures**
 ```
 tar -xzvf Data.tar.gz
 ```
@@ -34,7 +34,7 @@ tar -xzvf Data.tar.gz
 tar -xzvf Spider/all.html.tar.gz
 ```
 
-**sample from parallel corpus**
+**sample parallel corpus for machine translation**
 ```
 python sample.py
 ```
