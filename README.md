@@ -1,6 +1,7 @@
 # Pali_Tripitaka
 
-Pali Buddhist scriptures of 15 countries and its parallel corpus  
+Pali Buddhist scriptures of 15 countries and its parallel corpus,
+it is a part of the project [Multilang_Translator_For_Pali_Tripitaka](https://github.com/x39826/Multilang_Translator_For_Pali_Tripitaka)
 
 ## 巴利三藏平行语料情况简介
 目前网上存在的巴利三藏平行语料比较少，覆盖的语言种类基本上是印度 和东南亚语言，完整的其它国家语言如汉，英等版本的巴利三藏目前还没有，多 数语言中只有零散章节的翻译，可能由于历史原因，翻译依据的原始版本有差异，有些版本之间章节内容不一致，如北传汉文大藏经内容和南传巴利文大藏经许多篇章在形式上是不对齐的。比较可靠的平行语料主要有这些:
