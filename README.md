@@ -2,6 +2,14 @@
 
 Pali Buddhist scriptures of 15 countries and its parallel corpus  
 
+## 巴利三藏平行语料情况简介
+目前网上存在的巴利三藏平行语料比较少，覆盖的语言种类基本上是印度 和东南亚语言，完整的其它国家语言如汉，英等版本的巴利三藏目前还没有，多 数语言中只有零散章节的翻译，可能由于历史原因，翻译依据的原始版本有差异，有些版本之间章节内容不一致，如北传汉文大藏经内容和南传巴利文大藏经许多篇章在形式上是不对齐的。比较可靠的平行语料主要有这些:
+1. 庄春江居士工作站http://agama.buddhason.org/index.htm , 这里有对应的南北传四部阿含经经典以及现代汉语翻译
+2. Sutta Central https://suttacentral.net/ ，这是一个自发组织的巴利文三藏 翻译，汇集了许多语言版本的翻译。
+3. 上座部佛教巴利藏经 http://dhamma.sutta.org/index2.htm 提供了英文译 本巴利三藏和汉语译本巴利三藏。
+4. 阿含学苑 http://www.agamarama.com/cityzen/jiangtan/AHAN/ahan.htm 提供了汉译南传三藏和汉译北传三藏。
+5. Pali Tipiṭaka http://www.tipitaka.org 包含第六次结集版巴利三藏(含注、 疏、藏外、校勘记、斯缅泰及 PTS 页码、多国字体显示)。
+
  
 巴利语大藏经覆盖的语言
 --------------------------------------
